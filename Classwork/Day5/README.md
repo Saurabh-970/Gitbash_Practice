@@ -1,1 +1,4 @@
-a
+contains
+CheckPerfectNumber
+CalculateFactorial
+Digis
