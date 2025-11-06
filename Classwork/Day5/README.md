@@ -1,4 +1,8 @@
-contains
+contains..
+
+
 CheckPerfectNumber
+
 CalculateFactorial
+
 Digis
